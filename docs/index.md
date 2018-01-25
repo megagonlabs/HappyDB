@@ -9,9 +9,22 @@ from text.
 </p>
 * * *
 ## Using the dataset?
-Please cite the following publication if you are using the dataset for your work.
+For details on how HappyDB was created, check out our [paper](https://arxiv.org/abs/1801.07746).
+If you use HappyDB in your work, please cite the paper as:
 
-##### HappyDB: A Corpus of Crowdsourced Happy Moments. Arxiv (to complete...)
+```
+@inproceedings{asai2018happydb, 
+  title = {HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments}, 
+  author = {Asai, Akari and Evensen, Sara and Golshan, Behzad and Halevy, Alon
+  and Li, Vivian and Lopatenko, Andrei and Stepanov, Daniela and Suhara, Yoshihiko
+  and Tan, Wang-Chiew and Xu, Yinzhan}, 
+  booktitle = {Proceedings of LREC 2018},  
+  month = {May},   year={2018}, 
+  address = {Miyazaki, Japan}, 
+  publisher = {European Language Resources Association (ELRA)}
+}
+```
+
 <br>
 * * *
 ## Dataset description
