@@ -128,7 +128,7 @@ Wild.
 #### Cleaning the corpus
 The HappyDB corpus, like any other human-generated data, has errors and requires cleaning.
 Many workers did not write down complete sentences or had spelling errors. To make using
-the corpus more convinient, we have created a clean version of the corpus that deal with
+the corpus more convenient, we have created a clean version of the corpus that deals with
 the issues mentioned earlier. More specifically, we have:
-1. removed any happy moment that consists of two or less words,
+1. removed any happy moment that consists of a single word,
 1. corrected the misspelled words (if we could infer the correct spelling from the context). 
